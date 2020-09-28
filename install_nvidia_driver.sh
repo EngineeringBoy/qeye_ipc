@@ -1,0 +1,4 @@
+#!/bin/zsh
+sudo add-apt-repository ppa:graphics-drivers/ppa
+sudo apt update
+sudo apt install 
